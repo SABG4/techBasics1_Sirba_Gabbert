@@ -1,6 +1,6 @@
 
 #first I looked at some inspiration on asciiart.eu
-#I decided for the whale in the water 
+#I decided for this little whale in the water 
 
 print("""
        ":"
