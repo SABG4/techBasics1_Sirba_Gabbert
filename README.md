@@ -25,7 +25,7 @@ In this course, we will learn how to program with Python in Jupyter Notebooks wi
 | ... |     |     |
 
 ***
-**important links:**
+**useful links:**
 
 [Link to mystudy Folder](https://mystudy.leuphana.de/dateimanager/veranstaltung?veranstaltung_id=1149803)
 
