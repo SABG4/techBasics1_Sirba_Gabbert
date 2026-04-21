@@ -4,12 +4,11 @@
 # I used triple quotes to print a multiple-line string and started typing the symbols
 
 print("""
-    .""":""".
-      "":""  
+      "":""
        ":"
-     ___:____     |"\/"|
-   ,'        `.    \  /
-   |  0        \___/  |
+     ___:____       |" V "|
+   ,'        `.      .   /
+   |  0         - ___/   |
 ~^~^~^~^~^~^~^~^~^~^~^~^~^~
 
 """)
