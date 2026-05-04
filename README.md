@@ -18,7 +18,7 @@ In this course, we will learn how to program with Python in Jupyter Notebooks wi
 | week          | topic         | revised |
 | ------------- |:-------------:| -----:|
 |1   | print command, syntax rules, commenting | ✅|
-| 2    |      |    |
+| 2    |  conditional statements,...    |    |
 | 3 |      |    |
 | 4 |     |     |
 | 5 |     |     |
