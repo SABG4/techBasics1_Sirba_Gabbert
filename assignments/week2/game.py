@@ -72,16 +72,14 @@ time.sleep(1)
 food = input("Choose a number from 1-10 ?")
 time.sleep(2)
 
-<<<<<<< HEAD
+
 if int(food) <4:
     print("The perfect food for your birthday party: Quick and simple:🌮 fingerfood")
 elif int(food) in range(4,7):
     print("Your choice for the day:🍕 fast food (pizza, burger, fries)🍔")
 elif int(food) in range (7,11):
     print("What about something really healthy (salad, different fruit)🥗🍉 ?")
-=======
-# I have developed my game
->>>>>>> origin/main
+
 
 #####step4:invitation letter:
 time.sleep(3)
