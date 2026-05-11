@@ -15,14 +15,14 @@ In this course, we will learn how to program with Python in Jupyter Notebooks wi
 ***
 **what we've learned so far:**
 
-| week          | topic         | revised |
-| ------------- |:-------------:| -----:|
+| week          |                  topic                  | revised |
+| ------------- |:---------------------------------------:| --:|
 |1   | print command, syntax rules, commenting | ✅|
-| 2    |  conditional statements,...    |    |
-| 3 |      |    |
-| 4 |     |     |
-| 5 |     |     |
-| ... |     |     |
+| 2    |       conditional statements,...        | ✅|
+| 3 |       while loop, for loop, lists       |  |
+| 4 |                                         |  |
+| 5 |                                         |  |
+| ... |                                         |  |
 
 ***
 **useful links:**
