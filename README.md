@@ -19,10 +19,10 @@ In this course, we will learn how to program with Python in Jupyter Notebooks wi
 | ------------- |:---------------------------------------:| --:|
 |1   | print command, syntax rules, commenting | ✅|
 | 2    |       conditional statements,...        | ✅|
-| 3 |       while loop, for loop, lists       |  |
-| 4 |                                         |  |
-| 5 |                                         |  |
-| ... |                                         |  |
+| 4 |       while loop, for loop, lists       |  |
+| 5 |   functions, constants, variables,      |  |
+| 6 |                                         |  |
+| 7 |                                         |  |
 
 ***
 **useful links:**
