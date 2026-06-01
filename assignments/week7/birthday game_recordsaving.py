@@ -170,7 +170,6 @@ def main():
         time.sleep(4)
         print(FINAL_MESSAGE)
 
-
 # -------------------------
 
 if __name__ == "__main__":
