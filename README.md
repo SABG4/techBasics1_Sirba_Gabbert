@@ -21,8 +21,13 @@ In this course, we will learn how to program with Python in Jupyter Notebooks wi
 | 2    |       conditional statements,...        | ✅|
 | 4 |       while loop, for loop, lists       |  |
 | 5 |   functions, constants, variables,      |  |
-| 6 |                                         |  |
-| 7 |                                         |  |
+| 6 |   lists, mutability, dictionary         |  |
+| 7 |     error handling, file reading        |  |
+| 8 |        |  |
+| 9 |   OOP2,  |  |
+| 10 |           |  |
+| 11 |     Terminal    |  |
+
 
 ***
 **useful links:**
